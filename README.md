@@ -23,13 +23,14 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/SocialMedia-Node-Express-MongoDB.git
    cd SocialMedia-Node-Express-MongoDB
 2. **Install dependencies**
-
-```bash
+   ```bash
    git clone https://github.com/yourusername/SocialMedia-Node-Express-MongoDB.git
    cd SocialMedia-Node-Express-MongoDB
 4. **Set up environment variables**
- - MONGODB_URI=your_mongodb_connection_string
-PORT=5000
+   ```bash
+   MONGODB_URI=your_mongodb_connection_string
+   PORT=5000
 4. **Start the server**
--npm start
-
+   ```bash
+   npm start
+The server will start on http://localhost:5000.
